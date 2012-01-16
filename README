@@ -1,0 +1,11 @@
+script - The script command
+---------------------------
+
+This is a 2nd year school project.
+
+It acts exactly like the script command as find on Freebsd 5.5.
+
+It has been tested on:
+- i386/Freebsd 5.5
+- sun4u/Sun0S
+- ia64/Linux
